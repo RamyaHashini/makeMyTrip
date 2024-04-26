@@ -1,4 +1,8 @@
 scenario1
 scenario2:
+<<<<<<< HEAD
 scenario 4
 dcenario
+=======
+scene :10po
+>>>>>>> TrainMMT
