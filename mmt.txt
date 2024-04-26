@@ -1,8 +1,8 @@
-scenario1
-scenario2:
-<<<<<<< HEAD
-scenario 4
-dcenario
-=======
+scenario1: Chennai to bngalore
+scenario2:bangalore to goa
+//updated by sir
+scenario 4:a to b
+
+//updated by Ramya
 scene :10po
->>>>>>> TrainMMT
+
